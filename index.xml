@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日常ちゃんねる</title>
+    <link>https://nichijoch.github.io/index.xml</link>
+    <description>Recent content on 日常ちゃんねる</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 20 Oct 2016 17:57:35 +0900</lastBuildDate>
+    <atom:link href="https://nichijoch.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>teseeeeeet</title>
+      <link>https://nichijoch.github.io/post/testese/</link>
+      <pubDate>Thu, 20 Oct 2016 17:57:35 +0900</pubDate>
+      
+      <guid>https://nichijoch.github.io/post/testese/</guid>
+      <description>&lt;p&gt;eae&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://nichijoch.github.io/post/test/</link>
+      <pubDate>Thu, 20 Oct 2016 17:57:35 +0900</pubDate>
+      
+      <guid>https://nichijoch.github.io/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
